@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hands on: Python, scipy, numpy, matplotlib
 
 1. Utilizando solo python elegir alguno de los siguientes problemas y solucionarlo ( no use numpy). El archivo  ejemplo.py contiene la solución al primer ejercicio. Puede utilizarlo para verificar su solución o como ejemplo para resolver los demás. Los problemas fueron extraídos de https://projecteuler.net/archives 
@@ -36,3 +37,15 @@
   2. Colocar titulo y colores distintos para la función y la derivada.
   3. Guardar los resultados de evaluar la función en el rango del punto a cada 0.1 unidades en un archivo de texto.
 
+=======
+# Compiled languages into Python
+
+En este hands-on vamos a practicar cómo llamar a una librería
+nuestra desde python. En la carpeta `src/` tienen dos archivos de C.
+Para completar este ejercicio tienen que hacer los siguientes pasos:
+
+1. Compilar ambos archivos como objetos separados
+2. Construir una librería dinámica que tenga ambos objetos
+3. Escribir un script en python que pruebe **todas** las funciones
+de la librería
+>>>>>>> 3de37e56ec21c5e370f23aa27b547de83edebb96

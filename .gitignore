@@ -1,2 +1,7 @@
 *.png
 test.py
+*.pp.c
+*.asm
+*.o
+*.e
+*~
